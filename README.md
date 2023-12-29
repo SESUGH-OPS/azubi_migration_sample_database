@@ -1,2 +1,3 @@
-# azubi_migration_sample_database
-A todo task on migrating sample database on AWS
+# **AZUBI MIGRATION OF SAMPLE DATABASE**
+*This Task entails about migrating a sample database on AWS*
+## **GUIDELINES:**
